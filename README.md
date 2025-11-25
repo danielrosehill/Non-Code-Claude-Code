@@ -1,129 +1,68 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Project-orange?logo=anthropic)](https://claude.ai) [![Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code%20Repos-Index-blue)](https://github.com/danielrosehill/Claude-Code-Repos-Index) [![GitHub Master Index](https://img.shields.io/badge/GitHub%20Master-Index-green)](https://github.com/danielrosehill/Github-Master-Index)
 
 # Non-Code Claude Code
+ 
+This repository is intended to gather together a selection of applications and use cases for Claude Code that are not development related. 
 
-A small (and possibly not maintained!) collection demonstrating non-code uses of Claude Code.
+If my own projects are over represented here, it's simply because it's quicker to copy in from my [main index](https://github.com/danielrosehill/Cool-Claude-Code-Stuff) than it is to periodically scan GitHub for others' work. However, I do (and will!) strive to add as many projects as I can find during periodic excursions through Github.
 
-## About
+My personal philosophy, reflected in a lot of the experiments I share on Github and documented here: The simple pattern of a repository - a delineated part of a computer filesystem - is an immensely useful and powerful framework for both prototyping agentic workflows and rolling out full featured ones. 
 
-I believe that CLIs like Claude Code have applications that extend far beyond programming use cases. The purpose of this repo is to gather together a few examples of creative, non-traditional applications.
+In some cases I've started with a local Claude Code workspace approach and then migrated to a proper agentic framework in the cloud (the local approach isn't suitable when autonomous agent workflows are desired nor does it lend itself well to full automation). For many agent workflows it *does* work really well. 
 
-For a larger collection of projects, see: [Cool Claude Code Stuff](https://github.com/danielrosehill/Cool-Claude-Code-Stuff)
-
-## Examples
-
-### Deep Research
-
-- [claude-deep-research](https://github.com/willccbb/claude-deep-research)
-- [Claude-Code-Deep-Research](https://github.com/AnkitClassicVision/Claude-Code-Deep-Research)
-- [arxiv-research-agent](https://github.com/Tyvonneboykin/arxiv-research-agent)
-
-### Writing
-
-- [claudecode-writer](https://github.com/WomenDefiningAI/claudecode-writer)
-- [ai-blog-generator](https://github.com/analyticalrohit/ai-blog-generator)
-
-### Learning
-
-- [Claude-Powered-Study-Assistant](https://github.com/g-hano/Claude-Powered-Study-Assistant)
-
-### Finance
-
-- [claude-equity-research](https://github.com/quant-sentiment-ai/claude-equity-research)
+If you have a project that you'd like to include. feel free to drop me an email or open a pull request.
 
 ---
 
-## My Non-Code Claude Code Projects
+## Projects by Category
 
-### Research & Analysis
+### Finance
 
-**[Claude-Deep-Research-Model](https://github.com/danielrosehill/Claude-Deep-Research-Model)**
-Repo model for an iterative deep research model with voice pipeline
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Deep-Research-Model)
+- [claude-equity-research](https://github.com/quant-sentiment-ai/claude-equity-research) - Equity research with Claude
 
-**[Claude-Deep-Research-Template](https://github.com/danielrosehill/Claude-Deep-Research-Template)**
-Template for Claude Code deep research pattern
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Deep-Research-Template)
+### Learning
 
-**[Claude-Stack-Research-Workspace](https://github.com/danielrosehill/Claude-Stack-Research-Workspace)**
-Workspace for stack/technology research
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Stack-Research-Workspace)
-
-**[Claude-Tech-Research-Team](https://github.com/danielrosehill/Claude-Tech-Research-Team)**
-Example/template for using Claude Code repo structure for tech/stack research
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Tech-Research-Team)
-
-**[Claude-ADHD-Research-Workspace](https://github.com/danielrosehill/Claude-ADHD-Research-Workspace)**
-Claude research notebook into ADHD drug access - an important topic!
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-ADHD-Research-Workspace)
+- [Claude-Powered-Study-Assistant](https://github.com/g-hano/Claude-Powered-Study-Assistant) - Study assistant powered by Claude
 
 ### Multi-Agent & Ideation
 
-**[Claude-Think-Tank](https://github.com/danielrosehill/Claude-Think-Tank)**
-Model repository for a think tank composed of AI agents (with Claude Code providing the framework) focused on assisting a user with research and ideating policy proposals
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Think-Tank)
-
-**[Panel-Of-Claude](https://github.com/danielrosehill/Panel-Of-Claude)**
-Exploratory Claude model: multiple agents mimicking a panel debate
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Panel-Of-Claude)
-
-**[Claude-Change-My-View](https://github.com/danielrosehill/Claude-Change-My-View)**
-CMV with AI (pattern/template)
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Change-My-View)
-
-**[Claude-Decision-Evaluation-Framework](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework)**
-Claude Code model for decision evaluation
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework)
-
-### Writing & Content
-
-**[Claude-Code-Writing-Squad](https://github.com/danielrosehill/Claude-Code-Writing-Squad)**
-Model repository structure for using a Claude Code agent crew for writing related tasks
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Writing-Squad)
-
-**[Claude-Writing-Space-Template](https://github.com/danielrosehill/Claude-Writing-Space-Template)**
-Pattern for using Claude to help with any piece of writing
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Writing-Space-Template)
-
-**[Claude-Blog-Manager](https://github.com/danielrosehill/Claude-Blog-Manager)**
-Conversational CMS: model for using a Claude workspace to manage content
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Blog-Manager)
+- [Claude-Change-My-View](https://github.com/danielrosehill/Claude-Change-My-View) - CMV with AI (pattern/template)
+- [Claude-Decision-Evaluation-Framework](https://github.com/danielrosehill/Claude-Decision-Evaluation-Framework) - Claude Code model for decision evaluation
+- [Claude-Think-Tank](https://github.com/danielrosehill/Claude-Think-Tank) - Think tank of AI agents for research and policy ideation
+- [Panel-Of-Claude](https://github.com/danielrosehill/Panel-Of-Claude) - Multiple agents mimicking a panel debate
 
 ### Personal Productivity & Planning
 
-**[Claude-Budget-Workspace-Template](https://github.com/danielrosehill/Claude-Budget-Workspace-Template)**
-Template for using Claude for household budget management
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Budget-Workspace-Template)
+- [Claude-Budget-Workspace-Template](https://github.com/danielrosehill/Claude-Budget-Workspace-Template) - Template for household budget management
+- [Claude-Diary-Planner-Template](https://github.com/danielrosehill/Claude-Diary-Planner-Template) - Template for workflow and time management planning
+- [Claude-Therapy-Tracker](https://github.com/danielrosehill/Claude-Therapy-Tracker) - Model/template for therapy tracking (patients)
 
-**[Claude-Diary-Planner-Template](https://github.com/danielrosehill/Claude-Diary-Planner-Template)**
-Template Claude Code repo for workflow and time management planning
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Diary-Planner-Template)
+### Research & Analysis
 
-**[Claude-Therapy-Tracker](https://github.com/danielrosehill/Claude-Therapy-Tracker)**
-Model/template for using Claude Code for therapy tracking (patients)
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Therapy-Tracker)
+- [arxiv-research-agent](https://github.com/Tyvonneboykin/arxiv-research-agent) - ArXiv research agent
+- [Claude-ADHD-Research-Workspace](https://github.com/danielrosehill/Claude-ADHD-Research-Workspace) - Research notebook into ADHD drug access
+- [Claude-Code-Deep-Research](https://github.com/AnkitClassicVision/Claude-Code-Deep-Research) - Deep research with Claude Code
+- [claude-deep-research](https://github.com/willccbb/claude-deep-research) - Deep research implementation
+- [Claude-Deep-Research-Model](https://github.com/danielrosehill/Claude-Deep-Research-Model) - Iterative deep research model with voice pipeline
+- [Claude-Deep-Research-Template](https://github.com/danielrosehill/Claude-Deep-Research-Template) - Template for Claude Code deep research pattern
+- [Claude-Stack-Research-Workspace](https://github.com/danielrosehill/Claude-Stack-Research-Workspace) - Workspace for stack/technology research
+- [Claude-Tech-Research-Team](https://github.com/danielrosehill/Claude-Tech-Research-Team) - Example/template for tech/stack research
 
 ### Tools & Utilities
 
-**[Claude-Code-Context-Toolkit](https://github.com/danielrosehill/Claude-Code-Context-Toolkit)**
-Plugin for a structured human and AI context workflow in Claude Code
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Code-Context-Toolkit)
+- [Claude-Code-Context-Toolkit](https://github.com/danielrosehill/Claude-Code-Context-Toolkit) - Plugin for structured human and AI context workflow
+- [Claude-Document-This](https://github.com/danielrosehill/Claude-Document-This) - Slash command to document fixes to various filesystems
+- [Claude-File-Organiser-Super-Slash](https://github.com/danielrosehill/Claude-File-Organiser-Super-Slash) - Slash command for filesystem tidying
+- [Claude-PR-And-Media-Monitoring-Workspace](https://github.com/danielrosehill/Claude-PR-And-Media-Monitoring-Workspace) - Slash command for fetching news articles
+- [Claude-Website-Update-Sender](https://github.com/danielrosehill/Claude-Website-Update-Sender) - Slash command for notifying colleagues of website updates
 
-**[Claude-Website-Update-Sender](https://github.com/danielrosehill/Claude-Website-Update-Sender)**
-Slash command for notifying colleagues of website updates
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Website-Update-Sender)
+### Writing & Content
 
-**[Claude-PR-And-Media-Monitoring-Workspace](https://github.com/danielrosehill/Claude-PR-And-Media-Monitoring-Workspace)**
-Slash command for fetching news articles for human analysis
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-PR-And-Media-Monitoring-Workspace)
-
-**[Claude-File-Organiser-Super-Slash](https://github.com/danielrosehill/Claude-File-Organiser-Super-Slash)**
-One big slash command for filesystem tidying
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-File-Organiser-Super-Slash)
-
-**[Claude-Document-This](https://github.com/danielrosehill/Claude-Document-This)**
-Slash command for asking Claude Code to document fixes to various target filesystems
-[![View Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/danielrosehill/Claude-Document-This)
+- [ai-blog-generator](https://github.com/analyticalrohit/ai-blog-generator) - AI blog generator
+- [Claude-Blog-Manager](https://github.com/danielrosehill/Claude-Blog-Manager) - Conversational CMS for content management
+- [Claude-Code-Writing-Squad](https://github.com/danielrosehill/Claude-Code-Writing-Squad) - Agent crew for writing related tasks
+- [claudecode-writer](https://github.com/WomenDefiningAI/claudecode-writer) - Writer tool for Claude Code
+- [Claude-Writing-Space-Template](https://github.com/danielrosehill/Claude-Writing-Space-Template) - Pattern for using Claude to help with any piece of writing
 
 ---
 
