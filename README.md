@@ -1,3 +1,5 @@
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Project-orange?logo=anthropic)](https://claude.ai) [![Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code%20Repos-Index-blue)](https://github.com/danielrosehill/Claude-Code-Repos-Index) [![GitHub Master Index](https://img.shields.io/badge/GitHub%20Master-Index-green)](https://github.com/danielrosehill/Github-Master-Index)
+
 # Non-Code Claude Code
 
 A small (and possibly not maintained!) collection demonstrating non-code uses of Claude Code.
@@ -29,4 +31,6 @@ For a larger collection of projects, see: [Cool Claude Code Stuff](https://githu
 
 - [claude-equity-research](https://github.com/quant-sentiment-ai/claude-equity-research)
 
- 
+---
+
+To view an index of my Claude Code related projects, [click here](https://github.com/danielrosehill/Claude-Code-Repos-Index).
